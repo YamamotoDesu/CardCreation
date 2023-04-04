@@ -1,4 +1,5 @@
 # CardCreation
+https://www.youtube.com/watch?v=T7Ph17f9eeo
 
 <img width="300" alt="スクリーンショット 2023-04-04 12 03 14" src="https://user-images.githubusercontent.com/47273077/229676217-59e214f1-3c25-4206-8346-9f020f1bab20.png">
 
